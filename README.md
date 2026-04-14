@@ -30,3 +30,7 @@ Before you push to GitHub, create a file named `.gitignore` in the root and add 
 *.tfstate.backup
 *.tfvars
 *.zip
+
+---
+## Altan ACAI Ecosystem
+This repository is a specialized implementation of the [Altan ACAI Core](https://github.com/neekthegeek3/altan-acai-core) framework. While the Core repository handles the overarching business logic and strategy, this repo provides the production-ready Terraform modules for medical-specific deployments.
