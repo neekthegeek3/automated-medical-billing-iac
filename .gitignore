@@ -1,0 +1,14 @@
+# Terraform local files
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+.terraform.lock.hcl
+
+# Sensitive variables
+*.tfvars
+.tfvars.json
+variables.tfvars
+
+# Local zip files
+scripts/*.zip
