@@ -1,8 +1,6 @@
 # automated-medical-billing-iac
 This project is designed as a foundational "Department Eliminator." While the infrastructure is built to enterprise standards, users are responsible for ensuring specific regulatory compliance (HIPAA/GDPR) based on their final AI prompts and data handling policies.
 
-This documentation is written to reflect your 8+ years of IT experience, using professional terminology that will resonate with potential clients and employers. It emphasizes the "Sovereign" nature of the build and the high-compliance standards (HIPAA/KMS) you’ve implemented.
-
 ### Final Launch Steps (The "Go-Live" Sequence)
 
 To get this launched successfully, follow this specific order:
